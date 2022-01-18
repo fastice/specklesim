@@ -1,2 +1,2 @@
 # specklesim
-funtions to simulate speckle
+funtions to simulate speckle for analysing offset performance for NISAR
